@@ -2,7 +2,7 @@ node_modules/
 .DS_Store
 .vscode/
 dist/
-build/
+bu ild/
 keys
 .env
 *.env
